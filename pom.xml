@@ -16,6 +16,7 @@
  	<properties>
 		<vpdmf.model.type>MagicDraw</vpdmf.model.type>
 		<vpdmf.model.path>vpdmf-terminology.xml</vpdmf.model.path>
+		<vpdmf.model.url>http://bmkeg.isi.edu/terminology</vpdmf.model.url>
 		<vpdmf.viewsPath>specs</vpdmf.viewsPath>
 		<vpdmf.nestedModels>${basedir}/../vpdmf-people/</vpdmf.nestedModels>  	
  	</properties>
